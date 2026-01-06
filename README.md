@@ -68,7 +68,7 @@ This allows the channel to preserve security even under active attack.
 
 ## 🧩 Why This Project Matters
 
-This framework shows that quantum security is not just about key generation — it is about preserving entanglement itself.  
+This framework shows that quantum security is not just about key generation , it is about preserving entanglement itself.  
 The moment quantum correlations degrade, the system exposes it mathematically.
 
 This project bridges theory, circuits, and protocol-level defense into one adaptive security engine.
