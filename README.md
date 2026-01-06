@@ -2,10 +2,6 @@
 A Qiskit-based simulator for GHZ quantum key distribution that tests real-world security using noise, eavesdropping attacks, stabilizers, and the Mermin inequality.
 
 
-# 🔐 Quantum Key Distribution Security Simulator
-
-A Python–Qiskit based framework for simulating and stress-testing multiple Quantum Key Distribution (QKD) protocols under realistic conditions such as noise, eavesdropping, and adaptive defense strategies.
-
 This project implements and compares:
 
 - **B92** – minimalist prepare-and-measure QKD  
